@@ -5,17 +5,22 @@
     <section class="main-slider">
 		<div class="main-slider-carousel owl-carousel owl-theme">
 			<!-- Slide 01 -->
-			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/image-1.jpg')}}')">
+			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/mtu.jpg')}}')">
 				<div class="auto-container clearfix">
 
 					<!-- Content Column -->
 					<div class="content-column">
 						<div class="inner-column">
 							<div class="title">Can Go Extra To Build The Best!</div>
-							<h1>Constraction Industry <span class="theme-color">Awarded In 2022</span></h1>
-							<div class="text">Lorim dummy text ever since the when anding the when an g and ing indrem the when anding the when an g and ing indrem.</div>
+							<h1>Providing
+                                Client-Focused
+                                <span class="theme-color">Construction
+                                    Solutions </span></h1>
+							<div class="text">
+                                Over the years, we have helped create, connect and care for the roads, bridges and buildings that bring people and communities together
+                            </div>
 							<div class="btns-box">
-								<a class="btn-style-one theme-btn" href="{{url('/')}}/contact-us"><span class="txt">Get A Quote</span></a>
+								<a class="btn-style-one theme-btn" href="{{url('/')}}/about-us"><span class="txt">Discover More</span></a>
 							</div>
 						</div>
 					</div>
@@ -24,970 +29,169 @@
 			</div>
 			<!-- End Slide 01 -->
 
-			<!-- Slide 02 -->
-			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/image-1.jpg')}}')">
-				<div class="auto-container clearfix">
-
-					<!-- Content Column -->
-					<div class="content-column">
-						<div class="inner-column">
-							<div class="title">Can Go Extra To Build The Best!</div>
-							<h1>Constraction Industry <span class="theme-color">Awarded In 2022</span></h1>
-							<div class="text">Lorim dummy text ever since the when anding the when an g and ing indrem the when anding the when an g and ing indrem.</div>
-							<div class="btns-box">
-								<a class="btn-style-one theme-btn" href="{{url('/')}}/contact-us"><span class="txt">Get A Quote</span></a>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-			<!-- End Slide 02 -->
-
-			<!-- Slide 03 -->
-			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/image-1.jpg')}}')">
-				<div class="auto-container clearfix">
-
-					<!-- Content Column -->
-					<div class="content-column">
-						<div class="inner-column">
-							<div class="title">Can Go Extra To Build The Best!</div>
-							<h1>Constraction Industry <span class="theme-color">Awarded In 2022</span></h1>
-							<div class="text">Lorim dummy text ever since the when anding the when an g and ing indrem the when anding the when an g and ing indrem.</div>
-							<div class="btns-box">
-								<a class="btn-style-one theme-btn" href="{{url('/')}}/contact-us"><span class="txt">Get A Quote</span></a>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-			<!-- End Slide 03 -->
 
 		</div>
-		<div class="play-box">
+        {{-- Part Ya Video --}}
+		{{-- <div class="play-box">
 			<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-		</div>
+		</div> --}}
     </section>
     <!-- End Main Slider Section -->
 
-	<!-- Counter Section -->
-	<section class="counter-section">
-		<div class="outer-container">
-			<div class="inner-container">
 
-				<!-- Fact Counter -->
-				<div class="fact-counter">
-					<div class="clearfix">
 
-						<!-- Column -->
-						<div class="column counter-column col-lg-4 col-md-6 col-sm-12">
-							<div class="inner wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-								<div class="content">
-									<div class="icon flaticon-helmet"></div>
-									<div class="count-outer count-box alternate">
-										<span class="count-text" data-speed="5000" data-stop="2854">0</span>+
-									</div>
-									<h4 class="counter-title">Complete Project</h4>
-								</div>
-							</div>
-						</div>
-
-						<!-- Column -->
-						<div class="column counter-column col-lg-4 col-md-6 col-sm-12">
-							<div class="inner wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-								<div class="content">
-									<div class="icon flaticon-pencil-and-ruler"></div>
-									<div class="count-outer count-box">
-										<span class="count-text" data-speed="3000" data-stop="3">0</span>M
-									</div>
-									<h4 class="counter-title">Company Followers</h4>
-								</div>
-							</div>
-						</div>
-
-						<!-- Column -->
-						<div class="column counter-column col-lg-4 col-md-6 col-sm-12">
-							<div class="inner wow fadeInLeft" data-wow-delay="900ms" data-wow-duration="1500ms">
-								<div class="content">
-									<div class="icon flaticon-solidarity"></div>
-									<div class="count-outer count-box">
-										<span class="count-text" data-speed="3500" data-stop="76">0</span>k
-									</div>
-									<h4 class="counter-title">Happy Clients</h4>
-								</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!-- End Counter Section -->
-
-	<!-- Services Section -->
-	<section class="services-section">
-		<div class="image-layer-one" style="background-image:url('{{asset('theme/assets/images/background/2.jpg')}}')"></div>
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<span class="icon flaticon-telephone"></span>
-				<h2>What We <span>DO?</span></h2>
-				<div class="text">South central construction region since 2005</div>
-			</div>
-			<div class="inner-container" style="background-image:url('{{asset('theme/assets/images/background/1.jpg')}}')">
-				<div class="row clearfix">
-
-					<!-- Service Block -->
-					<div class="service-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<span class="icon flaticon-pencil-and-ruler"></span>
-							<h4><a href="service-detail.html">General Builders</a></h4>
-							<div class="text">Lorim denouncing pleasure and praisi ing pain was lim bornplete account of lmewul.</div>
-							<a href="#" class="read-more">Read More <span class="arrow fa fa-caret-right"></span></a>
-						</div>
-					</div>
-
-					<!-- Service Block -->
-					<div class="service-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<span class="icon flaticon-tools"></span>
-							<h4><a href="service-detail.html">House Extentation</a></h4>
-							<div class="text">Lorim denouncing pleasure and praisi ing pain was lim bornplete account of lmewul.</div>
-							<a href="#" class="read-more">Read More <span class="arrow fa fa-caret-right"></span></a>
-						</div>
-					</div>
-
-					<!-- Service Block -->
-					<div class="service-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<span class="icon flaticon-settings-1"></span>
-							<h4><a href="service-detail.html">Electrical Services</a></h4>
-							<div class="text">Lorim denouncing pleasure and praisi ing pain was lim bornplete account of lmewul.</div>
-							<a href="#" class="read-more">Read More <span class="arrow fa fa-caret-right"></span></a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-
-			<!-- Button Box -->
-			<div class="button-box text-center">
-				<a class="btn-style-two theme-btn" href="services.html"><span class="txt">More Services</span></a>
-			</div>
-
-		</div>
-	</section>
-	<!-- End Services Section -->
-
-	<!-- Experiance Section -->
-	<section class="experiance-section">
-		<div class="image-layer" style="background-image:url('{{asset('theme/assets/images/background/3.jpg')}}')"></div>
+	<!-- Since Section -->
+	<section class="since-section" style="background-image:url('{{asset('theme/assets/images/background/pattern-3.png')}}')">
 		<div class="auto-container">
 			<div class="row clearfix">
+
+				<!-- Title Column -->
+				<div class="title-column col-lg-6 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<!-- Title Box -->
+						<div class="title-box">
+
+							<h2> We Are <span>Pros Borders </span><br> And We’re
+                                Here To Deliver <span>Quality</span> Projects
+                                To <span>World Class</span> Standards! </h2>
+						</div>
+
+						<!-- Button Box - Iko Na Smooth Scroll -->
+						<div class="button-box scroll-nav">
+							<a class="btn-style-three theme-btn scroll-to-target" data-target="#center" href="#center"><span class="txt">Discover More</span></a>
+						</div>
+					</div>
+				</div>
 
 				<!-- Content Column -->
 				<div class="content-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="year-box">
-							<div class="count-box">
-								0<span class="count-text" data-speed="5000" data-stop="8">0</span>
-							</div>
-							<span class="years">Years</span>
+						<div class="text">
+							<p>
+                                Pros Borders Limited, is a multi-disciplinary
+                                civil engineering and construction company
+                                with proven capabilities over a wide range
+                                of different technical fields in the Civil
+                                Engineering and Building Works industries,
+                                respectively. Over the years, we have
+                                helped create, connect and care for the
+                                roads, bridges and buildings that bring
+                                people and communities together.
+                            </p>
+                            <hr>
+                            <i>
+                                We provide high-quality, reliable and unrivalled
+                                infrastructural solutions to governmental
+                                establishments and hold extensive experience and
+                                expertise with commercial clients alike.
+                                Dedicated to service excellence, we utilise innovation,
+                                safety and integrity to change and improve the way
+                                projects are designed, managed and executed.
+                            </i>
 						</div>
-						<div class="title">
-							<span class="icon flaticon-helmet-2"></span>
-							of industry & <br> Constent <i>Development</i>
-						</div>
-						<div class="text">Lorim denouncing pleasure and praisi ing pain was lim bornplete account of lmewul. Descriptive paragraph that tells clients lorem ipsum dolor mediocritatem maiestatis tempor appareat epicurei voluptatibus usuanomittam. A descriptive paragraph that tells clients lorem ipsum dolor mediocritatem maiestatis tempor appareat epicurei voluptatibus usuanomittam.</div>
-						<!-- Button Box -->
-						<div class="button-box">
-							<a class="btn-style-three theme-btn" href="services.html"><span class="txt">More About Us</span></a>
-						</div>
+
+
+
 					</div>
 				</div>
 
-				<!-- Form Column -->
-				<div class="form-column col-lg-6 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="content">
-							<div class="title">
-								<h4>Intrested in Contraction</h4>
-								<span>Get In Touch</span>
-							</div>
-
-							<!-- Email Form -->
-							<div class="email-form">
-								<form method="post" action="http://ary-themes.com/html/noor_tech/bricks/contact.html">
-									<div class="form-group">
-										<input type="email" name="email" value="" placeholder="Enter Your Email Address" required>
-										<button type="submit" class="theme-btn btn-style-one"><span class="txt">Contact Us Now</span></button>
-									</div>
-								</form>
-							</div>
-
-						</div>
-					</div>
-				</div>
 
 			</div>
+            <hr style="border: 1px solid #e27a25 !important">
 		</div>
 	</section>
-	<!-- End Experiance Section -->
+	<!-- End Since Section -->
 
-	<!-- Projects Section -->
-	<section class="projects-section">
+
+	<!-- Services Section Four -->
+	<section id="center" class="services-section-four" style="background-image:url('{{asset('theme/assets/images/background/pattern-1.png')}}')">
 		<div class="auto-container">
+
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<span class="icon flaticon-telephone"></span>
-				<h2>Our Company <span>Projects</span></h2>
-				<div class="text">South-central construction region since 2005</div>
+				<h2>CENTRES OF  <span>EXCELLENCE</span></h2>
+				<div class="text" style="max-width:650px; margin:0 auto;">Great infrastructure has the power to transform communities. Below is a list of the services that Pros Borders
+                    undertake throughout Kenya in General Civil Engineering, Construction, Mining and Roads works</div>
 			</div>
 
-			<!-- Porfolio Tabs -->
-			<div class="project-tab">
+			<div class="row clearfix">
 
-				<div class="tab-btns-box">
-					<!--Tabs Header-->
-					<div class="tabs-header">
-						<ul class="product-tab-btns clearfix">
-							<li class="p-tab-btn active-btn" data-tab="#p-tab-1">Show All</li>
-							<li class="p-tab-btn" data-tab="#p-tab-2">Buildings</li>
-							<li class="p-tab-btn" data-tab="#p-tab-3">Houses</li>
-							<li class="p-tab-btn" data-tab="#p-tab-4">Interior</li>
-							<li class="p-tab-btn" data-tab="#p-tab-5">Offices</li>
-							<li class="p-tab-btn" data-tab="#p-tab-6">Extra Project</li>
-						</ul>
+				<!-- Service Block Three -->
+				<div class="service-block-three col-lg-6 col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-1.jpg')}}" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="content">
+								<span class="icon flaticon-home-1"></span>
+								<h5><a href="project-planning.html">Civil Engineering and<br>  Road Building Works</a></h5>
+							</div>
+						</div>
 					</div>
 				</div>
 
-				<!--Tabs Content-->
-				<div class="p-tabs-content">
-
-					<!-- Portfolio Tab / Active Tab -->
-					<div class="p-tab active-tab" id="p-tab-1">
-						<div class="project-carousel owl-theme owl-carousel">
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
+				<!-- Service Block Three -->
+				<div class="service-block-three col-lg-6 col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-2.jpg')}}" alt="" /></a>
 						</div>
-					</div>
-
-					<!-- Portfolio Tab -->
-					<div class="p-tab" id="p-tab-2">
-						<div class="project-carousel owl-theme owl-carousel">
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-
-					<!-- Portfolio Tab -->
-					<div class="p-tab" id="p-tab-3">
-						<div class="project-carousel owl-theme owl-carousel">
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-
-					<!-- Portfolio Tab -->
-					<div class="p-tab" id="p-tab-4">
-						<div class="project-carousel owl-theme owl-carousel">
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-
-					<!-- Portfolio Tab -->
-					<div class="p-tab" id="p-tab-5">
-						<div class="project-carousel owl-theme owl-carousel">
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-
-					<!-- Portfolio Tab -->
-					<div class="p-tab" id="p-tab-6">
-						<div class="project-carousel owl-theme owl-carousel">
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/2.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Best Office Design</a></h5>
-											<div class="location">Rocky Highway Port Juana </div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/3.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Construction Building</a></h5>
-											<div class="location">Stoltenberg Underpass</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/4.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Pink Office Decoration</a></h5>
-											<div class="location">300 Sunrise Ct Hamel</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Gallery Block -->
-							<div class="gallery-block">
-								<div class="inner-box">
-									<div class="image">
-										<a href="projects-detail.html"><img src="{{asset('theme/assets/images/gallery/1.jpg')}}" alt="" /></a>
-										<div class="overlay-box">
-											<h5><a href="project-detail.html">Mirlando Construction</a></h5>
-											<div class="location">100 Sunrise Ct Hamel, (MN)</div>
-										</div>
-									</div>
-								</div>
+						<div class="lower-content">
+							<div class="content">
+								<span class="icon flaticon-under-construction"></span>
+								<h5><a href="project-planning.html">Building Construction  <br> Works</a></h5>
 							</div>
 						</div>
 					</div>
-
 				</div>
+
+				<!-- Service Block Three -->
+				<div class="service-block-three col-lg-6 col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-3.jpg')}}" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="content">
+								<span class="icon flaticon-blueprint"></span>
+								<h5><a href="project-planning.html">Water and Drainage  <br> Works</a></h5>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Service Block Three -->
+				<div class="service-block-three col-lg-6 col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-4.jpg')}}" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="content">
+								<span class="icon flaticon-building"></span>
+								<h5><a href="project-planning.html">Construction  <br> Supplies</a></h5>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+
+
 			</div>
+
+			<!-- Lower Text -->
+			<div class="lower-text">
+				<div class="text">Want to see our company industrial services... <a href="services.html">View More Services</a></div>
+			</div>
+
 		</div>
 	</section>
-	<!-- End Services Section -->
+	<!-- End Services Section Four -->
+
 
 	<!-- Solution Section -->
 	<section class="solution-section" style="background-image:url('{{asset('theme/assets/images/background/4.jpg')}}')">

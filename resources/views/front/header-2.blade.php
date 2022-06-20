@@ -12,7 +12,7 @@
                         <li><span class="icon fa fa-envelope"></span>Email: <a href="mailto:info@prosborder.co.ke">info@prosborder.co.ke</a></li>
                         <li><span class="icon fa fa-map-marker"></span><a target="new" href="https://goo.gl/maps/5PLCUeDenY2U1KPq5">
                             Ngong Rd, Malik Heights,
-                            th Floor Rm 406 Nairobi Kenya</a></li>
+                            4th Floor Rm 406 Nairobi Kenya</a></li>
                     </ul>
                 </div>
 
@@ -20,7 +20,7 @@
                 <div class="top-right pull-right clearfix">
                     <!-- Social Box -->
                     <ul class="social-box">
-                        <li class="follow">Follow us:</li>
+                        <li class="follow">We are social:</li>
                         <li><a href="https://www.facebook.com/" class="fa fa-facebook-f"></a></li>
                         <li><a href="https://www.twitter.com/" class="fa fa-twitter"></a></li>
                         <li><a href="https://www.linkedin.com/" class="fa fa-linkedin"></a></li>
@@ -55,7 +55,8 @@
                             </button>
                         </div>
 
-                        <div class="navbar-collapse scroll-nav collapse clearfix" id="navbarSupportedContent">
+
+                        <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                 <li class="current dropdown"><a href="{{url('/')}}">Home</a>
 
@@ -75,7 +76,6 @@
                                 <li class="current"><a href="{{url('/')}}/contact-us">Contact Us</a>
 
                                 </li>
-
                             </ul>
                         </div>
                     </nav>

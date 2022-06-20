@@ -98,19 +98,19 @@
 					<div class="sidebar-info-contents">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="{{url('/')}}"><img src="{{asset('theme/assets/images/logo-2.png')}}" alt="" /></a>
+								<a href="{{url('/')}}"><img src="{{asset('uploads/logo.jpg')}}" alt="" /></a>
 							</div>
 							<div class="content-box">
 								<h4>About Us</h4>
-								<p class="text">The argument in favor of using filler text goes something like this: If you use Consulting Process, anytime you reach a review point you’ll end up reviewing and negotiating the content itself and not the design.</p>
-								<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
+								<p class="text">Pros Borders Limited, is a multi-disciplinary civil engineering and construction company with proven capabilities over a wide range of different technical fields in the Civil Engineering and Building Works industries, respectively.</p>
+								<a href="{{url('/')}}/contact-us" class="theme-btn btn-style-one"><span class="txt">Consultation</span></a>
 							</div>
 							<div class="contact-info">
 								<h4>Contact Info</h4>
 								<ul class="list-style-one">
-									<li><span class="icon fa fa-location-arrow"></span>Chicago 12, Melborne City, USA</li>
-									<li><span class="icon fa fa-phone"></span>(111) 111-111-1111</li>
-									<li><span class="icon fa fa-envelope"></span>bricks@gmail.com</li>
+									<li><span class="icon fa fa-location-arrow"></span>Ngong Rd, Malik Heights, 4th Floor Rm 406 Nairobi Kenya</li>
+									<li><span class="icon fa fa-phone"></span>+1 (202) 540 0134</li>
+									<li><span class="icon fa fa-envelope"></span>info@prosborders.co.ke</li>
 									<li><span class="icon fa fa-clock-o"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
 								</ul>
 							</div>
@@ -202,7 +202,7 @@
 								<div class="footer-widget logo-widget">
 									<div class="widget-content">
 
-										<div class="text">Pro Borders Limited, is a multi-disciplinary
+										<div class="text">Pros Borders Limited, is a multi-disciplinary
                                             civil engineering and construction company
                                             with proven capabilities over a wide range
                                             of different technical fields in the Civil
@@ -280,8 +280,8 @@
 <!-- Search Popup -->
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-cancel-1"></span></button>
-	<button class="close-search"><span class="flaticon-up-arrow"></span></button>
-	<form method="post" action="http://ary-themes.com/html/noor_tech/bricks/blog.html">
+	<button class="close-search"><span class="fa fa-arrow-up"></span></button>
+	<form method="post" action="#">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>
@@ -313,6 +313,9 @@
 <script src="{{asset('theme/assets/js/nav-tool.js')}}"></script>
 <script src="{{asset('theme/assets/js/jquery-ui.js')}}"></script>
 <script src="{{asset('theme/assets/js/script.js')}}"></script>
+
+
+
 
 
 </body>
