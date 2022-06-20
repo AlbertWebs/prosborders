@@ -1,4 +1,4 @@
-/*** 
+/***
 
 ====================================================================
 	Header style One
@@ -345,7 +345,7 @@
 .main-header .info-box ul li{
 	position:relative;
 	line-height:1.6em;
-	font-weight:700;
+	font-weight:400;
 	margin:var(--margin-zero);
 	color:var(--main-color);
 	font-size:var(--font-16);
@@ -409,7 +409,7 @@
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .main-header .header-lower{
@@ -511,7 +511,7 @@
 }
 
 .main-header .sticky-header .main-menu .navigation > li > a{
-	
+
 }
 
 .main-header .sticky-header .auto-container{
@@ -582,7 +582,7 @@
 	-moz-animation-iteration-count: 1;
 	-op-animation-iteration-count: 1;
 	-webkit-animation-iteration-count: 1;
-	animation-iteration-count: 1;	
+	animation-iteration-count: 1;
 }
 
 .main-header .main-menu .navigation > li > a{
@@ -632,7 +632,7 @@
 }
 
 .main-header .main-menu .navigation > li.dropdown > a{
-	
+
 }
 
 .main-header .sticky-header .main-menu .navigation > li{
@@ -679,7 +679,7 @@
 
 .main-header .main-menu .navigation > li > ul.from-right{
 	left:auto;
-	right:0px;	
+	right:0px;
 }
 
 .main-header .main-menu .navigation > li > ul > li{
@@ -723,7 +723,7 @@
 }
 
 .main-header .sticky-header .main-menu .navigation > li > a:before{
-	
+
 }
 
 .main-header .main-menu .navigation > li > ul > li:hover > a{
@@ -745,7 +745,7 @@
 	font-size:var(--font-16);
 	font-weight:normal;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
 }
 
 .main-header .main-menu .navigation > li > ul > li > ul{
@@ -776,7 +776,7 @@
 
 .main-header .main-menu .navigation > li > ul > li > ul.from-right{
 	left:auto;
-	right:0px;	
+	right:0px;
 }
 
 .main-header .main-menu .navigation > li > ul > li > ul > li{
@@ -787,7 +787,7 @@
 }
 
 .main-header .main-menu .navigation > li > ul > li > ul > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-header .main-menu .navigation > li > ul > li > ul > li > a{
@@ -874,7 +874,7 @@
 	background-color:var(--main-color);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Mobile Menu
@@ -908,7 +908,7 @@
 .mobile-menu .nav-logo{
 	position:relative;
 	padding:20px 20px;
-	text-align:left;	
+	text-align:left;
 }
 
 .mobile-menu .nav-logo img{
@@ -939,7 +939,7 @@
     -webkit-transition: all 900ms ease;
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
-	
+
 	-webkit-transition-delay: 300ms;
 	-moz-transition-delay: 300ms;
 	-ms-transition-delay: 300ms;
@@ -973,7 +973,7 @@
 	padding: 0px 0px;
 	z-index: 5;
 	border-radius: 0px;
-	
+
 	transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
@@ -1639,7 +1639,7 @@
 	color:var(--main-color-two);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Search Popup
@@ -1849,7 +1849,7 @@
 	width:3px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Hidden Sidebar style
@@ -1871,7 +1871,7 @@
 
 .sidebar-info-contents .content-inner .logo img{
 	display:inline-block;
-	max-width:100%;	
+	max-width:100%;
 }
 
 .sidebar-info-contents .content-inner .content-box{
