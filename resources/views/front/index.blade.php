@@ -179,9 +179,9 @@
 			</div>
 
 			<!-- Lower Text -->
-			<div class="lower-text">
+			{{-- <div class="lower-text">
 				<div class="text">Want to see our company industrial services... <a href="services.html">View More Services</a></div>
-			</div>
+			</div> --}}
 
 		</div>
 	</section>

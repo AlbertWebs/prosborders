@@ -21,7 +21,7 @@
 		<div class="auto-container">
             <div class="sec-title centered">
 				{{-- <span class="icon flaticon-telephone"></span> --}}
-				<div class="text" style="max-width:550px; margin:0 auto; color:#000000;">At Pro Borders we believe in continuing to innovate and
+				<div class="text" style="max-width:550px; margin:0 auto; color:#000000;">At Pros Borders we believe in continuing to innovate and
                     develop solutions that deliver roads of the highest quality,
                     are more environmentally cautious and last longer.</div>
 			</div>

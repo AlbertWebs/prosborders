@@ -64,10 +64,10 @@
                                 <li class="current"><a href="{{url('/')}}/vision-and-mission">Vision & Mission</a>
 
                                 </li>
-                                <li class="current"><a href="#">How we do it</a>
+                                <li class="current"><a href="{{url('/')}}/how-we-do-it">How we do it</a>
 
                                 </li>
-                                <li class="current"><a href="#">Our Policies</a>
+                                <li class="current"><a href="{{url('/')}}/our-policies">Our Policies</a>
 
                                 </li>
                                 <li class="current"><a href="{{url('/')}}/center-of-excellence">Center of Excellence</a>

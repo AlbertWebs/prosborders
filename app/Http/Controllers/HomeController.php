@@ -37,8 +37,13 @@ class HomeController extends Controller
     {
         return view('front.center-of-excellence');
     }
-
-
-
+    public function how_we_do_it()
+    {
+        return view('front.how-we-do-it');
+    }
+    public function our_policies()
+    {
+        return view('front.our-policies');
+    }
 
 }

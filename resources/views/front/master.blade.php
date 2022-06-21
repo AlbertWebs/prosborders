@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Bricks HTML-5 Template | Homepage 01</title>
+<title>Pros Borders | Client-Focused Construction Solutions</title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 {{-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"> --}}
