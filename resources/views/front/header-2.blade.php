@@ -61,7 +61,7 @@
                                 <li class="current dropdown"><a href="{{url('/')}}">Home</a>
 
                                 </li>
-                                <li class="current"><a href="#">Vision & Mission</a>
+                                <li class="current"><a href="{{url('/')}}/vision-and-mission">Vision & Mission</a>
 
                                 </li>
                                 <li class="current"><a href="#">How we do it</a>
@@ -70,9 +70,12 @@
                                 <li class="current"><a href="#">Our Policies</a>
 
                                 </li>
-                                <li class="current"><a href="#">Center of Excellence</a>
+                                <li class="current"><a href="{{url('/')}}/center-of-excellence">Center of Excellence</a>
 
                                 </li>
+                                {{-- <li class="current"><a href="#">Articles</a>
+
+                                </li> --}}
                                 <li class="current"><a href="{{url('/')}}/contact-us">Contact Us</a>
 
                                 </li>
@@ -84,7 +87,7 @@
                     <div class="outer-box clearfix">
 
                         <!-- Search Btn -->
-                        <div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span></div>
+                        {{-- <div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span></div> --}}
 
 
 
@@ -93,7 +96,7 @@
 
                         <!-- Button Box -->
                         <div class="button-box">
-                            <a href="{{url('/')}}/contact-us" class="theme-btn btn-style-two"><span class="txt">Get A Quote</span></a>
+                            <a download href="{{url('/')}}/uploads/files/ProsBorders-Company-profile.pdf" class="theme-btn btn-style-two"><span class="txt"><span class="icon fa fa-download"></span> Company Profile</span></a>
                         </div>
 
                     </div>

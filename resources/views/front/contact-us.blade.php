@@ -39,7 +39,7 @@
 				<div class="info-column col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-column">
 						<span class="icon fa fa-envelope"></span>
-						<div class="text">info@prosborders.co.ke <br> support@prosborders.co.ke</div>
+						<div class="text">info@prosborders.co.ke <br> hello@prosborders.co.ke</div>
 					</div>
 				</div>
 
@@ -69,7 +69,7 @@
 					<div class="title-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<h2>Multi-Disciplined <br> Engineering <br> Solutions </h2>
-							<div class="text">New Construction Regime in Nairobi since 2018</div>
+
 							<!-- Button Box -->
 							<div class="button-box">
 								<a class="btn-style-two theme-btn" href="{{url('/')}}"><span class="txt">More About Us</span></a>
