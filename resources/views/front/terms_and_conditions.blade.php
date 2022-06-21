@@ -20,52 +20,28 @@
 		<div class="auto-container">
 			<!-- Privacy Content -->
 			<div class="privacy-content">
-				<h2>Terms & Condition</h2>
-				<p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors, we make sector-overarching links to gather knowledge and to learn from each other who we know will help us create added value for your project.</p>
-				<div class="date">Updated January 6, 2022</div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue.</p>
-				<h2>Overview</h2>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-			</div>
-			<!-- Privacy Content -->
-			<div class="privacy-content">
-				<h4>The standard chunk of Lorem Ipsum used since the 1500s is <br> reproduced below for those interested.</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla. Etiam maximus porttitor magna sit amet consectetur. Integer eget ante scelerisque tortor sodales aliquet. Integer in vestibulum leo, vitae tristique orci. Etiam tortor sem, porttitor at pellentesque sit amet, fringilla nec massa. Nunc nec magna sed metus tristique ornare vitae ut nisl. Mauris lacus enim, posuere et tincidunt condimentum, sodales ac elit.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla. Etiam maximus porttitor magna sit amet consectetur. Integer eget ante scelerisque tortor sodales aliquet. Integer in vestibulum leo, vitae tristique orci. Etiam tortor </p>
-			</div>
-			<!-- Privacy Content -->
-			<div class="privacy-content">
-				<h4>The standard chunk of Lorem Ipsum used since the 1500s is <br> reproduced below for those interested.</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut.</p>
-				<ul class="privacy-list">
-					<li>Construction Management</li>
-					<li>Pre Construction Services</li>
-					<li>Contract Administration</li>
-					<li>Online Appointment</li>
-				</ul>
-			</div>
+				<h2>Introduction</h2>
+				<div class="date">Updated January 14, 2022</div>
+				<p>
+                    It is highly recommended that you read these Terms and Conditions carefully before using the prosborders.co.ke website operated by Pros Borders. Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for Pros Borders has been created by  prosborders.co.ke
+                </p>
 
-			<!-- Privacy Content -->
-			<div class="privacy-content">
-				<h4>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for <br> those interested.</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla. Etiam maximus porttitor magna sit amet consectetur. Integer eget ante scelerisque tortor sodales aliquet. Integer in vestibulum leo, vitae tristique orci. Etiam tortor sem, porttitor at pellentesque sit amet, fringilla nec massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum.</p>
-			</div>
+				<h2>Links To Other Web Sites</h2>
+				<p>
+                    Our Service may contain links to third-party web sites or services that are not owned or controlled by Pros Borders. www.prosborders.co.ke has no control over and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that www.prosborders.co.ke shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services. We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.It is highly recommended that you read these Terms and Conditions carefully before using the prosborders.co.ke website operated by Pros Borders. Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. The Terms and Conditions agreement for Pros Borders has been created by  prosborders.co.ke
+                </p>
 
-			<!-- Privacy Content -->
-			<div class="privacy-content">
-				<h2>Security and Retention</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla.</p>
+                <h2>Changes</h2>
+				<p>
+                    We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+                </p>
+                <h2>Contact</h2>
+				<p>
+                    If you have any questions about these Terms, please contact us through <a href="mailto:info@prosborders.co.ke">info@prosborders.co.ke</a>
+                </p>
 			</div>
+			<!-- Privacy Content -->
 
-			<!-- Privacy Content -->
-			<div class="privacy-content">
-				<h2>Contact Us</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula. Suspendisse vitae ex fermentum, suscipit sem id, dapibus orci. Cras efficitur mi augue, ut sodales felis rhoncus bibendum. Fusce sagittis nibh orci, id vestibulum tortor aliquet ut. Vivamus maximus felis ac nisl luctus, ut aliquet massa suscipit. Sed scelerisque quam justo, sed volutpat neque tempor porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam consequat tellus id risus condimentum fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nisl ligula.</p>
-			</div>
 
 		</div>
 	</section>
