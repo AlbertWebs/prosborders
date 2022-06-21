@@ -217,8 +217,8 @@
 								<div class="footer-widget links-widget">
 									<h5>QUICK LINKS</h5>
 									<ul class="list-link">
-										<li><a href="{{url('/')}}/about-us">About Company</a></li>
-										<li><a href="{{url('/')}}/our-services">Services</a></li>
+										<li><a href="{{url('/')}}/vision-and-mission">About Company</a></li>
+										<li><a href="{{url('/')}}/center-of-excellence">Services</a></li>
 										<li><a href="{{url('/')}}/contact-us">Contact</a></li>
 									</ul>
 								</div>

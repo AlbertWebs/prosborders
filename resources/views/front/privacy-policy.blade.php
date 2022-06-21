@@ -28,14 +28,14 @@
 				<h2>Policies</h2>
 				<p>
                     <b>Personal Information Collected</b><br>
-                    prosborders.co.ke will gather information in the background when any person or legal entity visits the www.prosborders.com  website using cookies. This may include IP address, device type, Internet browser type, operating system, location and other device specific infomation. Data collected is for business intelligence meant for enhancing user experience any time a user visits the prosborders.co.ke
+                    prosborders.co.ke will gather information in the background when any person or legal entity visits the www.prosborders.co.ke  website using cookies. This may include IP address, device type, Internet browser type, operating system, location and other device specific infomation. Data collected is for business intelligence meant for enhancing user experience any time a user visits the prosborders.co.ke
                       <br><br>
                     <b> Management of personal database</b><br>
 
                     You can choose whether you wish to receive promotional communications from our web site by email using the subscribe form in the footer section of this page. If you receive promotional email or SMS messages from us and would like to opt out, you can request deletion of your email info@prosborders.co.ke.
                      <br><br>
                     <b>Contact</b><br>
-                     You have the right to review the personal data we keep about you. You can request an overview of your personal data that by emailing info@prosborders.com with the subject line Request for personal information. To help us prevent fraudulent collection of personal information, please include a scan of your passport or identity card. If you would like us to remove your personal information from our database, please email info@prosborders.com with the subject line Request for removal of personal information. Please bear in mind that we may need to retain certain information for legal and/or administrative purposes such as record keeping or to detect fraudulent or criminal activities.
+                     You have the right to review the personal data we keep about you. You can request an overview of your personal data that by emailing info@prosborders.co.ke with the subject line Request for personal information. To help us prevent fraudulent collection of personal information, please include a scan of your passport or identity card. If you would like us to remove your personal information from our database, please email info@prosborders.co.ke with the subject line Request for removal of personal information. Please bear in mind that we may need to retain certain information for legal and/or administrative purposes such as record keeping or to detect fraudulent or criminal activities.
 
                 </p>
 			</div>
