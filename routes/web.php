@@ -19,6 +19,7 @@ Route::get('/', function () {
 Route::get('/vision-and-mission', [App\Http\Controllers\HomeController::class, 'vision_and_mission'])->name('vision-and-mission');
 Route::get('/contact-us', [App\Http\Controllers\HomeController::class, 'contact_us'])->name('contact-us');
 Route::get('/center-of-excellence', [App\Http\Controllers\HomeController::class, 'center_of_excellence'])->name('center-of-excellence');
+Route::get('/center-of-excellence/{slung}', [App\Http\Controllers\HomeController::class, 'center_of_excellence_single'])->name('center-of-excellence-single');
 Route::get('/how-we-do-it', [App\Http\Controllers\HomeController::class, 'how_we_do_it'])->name('how-we-do-it');
 Route::get('/our-policies', [App\Http\Controllers\HomeController::class, 'our_policies'])->name('our-policies');
 

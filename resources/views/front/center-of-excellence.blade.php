@@ -29,65 +29,22 @@
 			</div>
 
 			<div class="row clearfix">
-                <!-- Service Block Three -->
+                <?php $Service = DB::table('services')->get(); ?>
+				@foreach ($Service as $Service)
                 <div class="service-block-three col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-1.jpg')}}" alt="" /></a>
-                        </div>
-                        <div class="lower-content">
-                            <div class="content">
-                                <span class="icon flaticon-home-1"></span>
-                                <h5><a href="project-planning.html">Civil Engineering and<br>  Road Building Works</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-2.jpg')}}" alt="" /></a>
-                        </div>
-                        <div class="lower-content">
-                            <div class="content">
-                                <span class="icon flaticon-under-construction"></span>
-                                <h5><a href="project-planning.html">Building Construction  <br> Works</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-3.jpg')}}" alt="" /></a>
-                        </div>
-                        <div class="lower-content">
-                            <div class="content">
-                                <span class="icon flaticon-blueprint"></span>
-                                <h5><a href="project-planning.html">Water and Drainage  <br> Works</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-6 col-md-6 col-sm-12">
-                    <div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="project-planning.html"><img src="{{asset('theme/assets/images/resource/service-4.jpg')}}" alt="" /></a>
-                        </div>
-                        <div class="lower-content">
-                            <div class="content">
-                                <span class="icon flaticon-building"></span>
-                                <h5><a href="project-planning.html">Construction  <br> Supplies</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<a href="{{url('/')}}/center-of-excellence/{{$Service->slung}}"><img style="max-height:401px" src="{{asset('theme/assets/images/resource/')}}/{{$Service->image}}" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="content">
+								{{-- <span class="icon  fa fa-cog"></span> --}}
+								<h5><a href="{{url('/')}}/center-of-excellence/{{$Service->slung}}">{{$Service->title}}</a></h5>
+							</div>
+						</div>
+					</div>
+				</div>
+                @endforeach
 			</div>
 
 

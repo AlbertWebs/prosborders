@@ -201,7 +201,9 @@
 
 
 @media only screen and (max-width: 976px){
-
+   .txt-loading span{
+       font-size: 14px !important;
+   }
 
 
 }

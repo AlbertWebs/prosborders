@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use DB;
 
 class HomeController extends Controller
 {
@@ -45,5 +46,13 @@ class HomeController extends Controller
     {
         return view('front.our-policies');
     }
+
+    public function center_of_excellence_single($slung)
+    {
+        $Service = DB::table('services')->where('slung',$slung)->get();
+        return view('front.center-of-excellence-single', compact('Service'));
+    }
+
+
 
 }
