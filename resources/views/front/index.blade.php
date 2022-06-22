@@ -20,7 +20,7 @@
                                 Over the years, we have helped create, connect and care for the roads, bridges and buildings that bring people and communities together
                             </div>
 							<div class="btns-box">
-								<a class="btn-style-one theme-btn" href="{{url('/')}}/about-us"><span class="txt">Discover More</span></a>
+								<a class="btn-style-one theme-btn" href="{{url('/')}}/vision-and-mission"><span class="txt">Discover More</span></a>
 							</div>
 						</div>
 					</div>
