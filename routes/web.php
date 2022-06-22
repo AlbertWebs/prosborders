@@ -22,6 +22,7 @@ Route::get('/center-of-excellence', [App\Http\Controllers\HomeController::class,
 Route::get('/center-of-excellence/{slung}', [App\Http\Controllers\HomeController::class, 'center_of_excellence_single'])->name('center-of-excellence-single');
 Route::get('/how-we-do-it', [App\Http\Controllers\HomeController::class, 'how_we_do_it'])->name('how-we-do-it');
 Route::get('/our-policies', [App\Http\Controllers\HomeController::class, 'our_policies'])->name('our-policies');
+Route::get('/blog/{slung}', [App\Http\Controllers\HomeController::class, 'blog'])->name('our-blog');
 
 
 // Legal

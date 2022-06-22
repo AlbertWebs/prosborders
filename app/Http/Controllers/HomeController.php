@@ -53,6 +53,12 @@ class HomeController extends Controller
         return view('front.center-of-excellence-single', compact('Service'));
     }
 
+    public function blog($slung)
+    {
+        $Blog = DB::table('blogs')->where('slung',$slung)->get();
+        return view('front.blog-details', compact('Blog'));
+    }
+
 
 
 }

@@ -49,7 +49,7 @@
 			<div class="row clearfix">
                 <!-- Sec Title -->
                 <div class="sec-title centered" style="margin:0 auto;">
-                    <span class="icon flaticon-telephone"></span>
+                    {{-- <span class="icon flaticon-telephone"></span> --}}
                     <h3>Our Core  <span>Values</span></h3>
                     <br><br>
                 </div>

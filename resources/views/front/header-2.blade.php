@@ -133,7 +133,7 @@
     <!-- Mobile Menu  -->
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
-        <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
+        <div class="close-btn"><span class="icon fa fa-bars"></span></div>
 
         <nav class="menu-box">
             <div class="nav-logo"><a href="{{url('/')}}"><img src="assets/images/logo-small.png" alt="" title=""></a></div>

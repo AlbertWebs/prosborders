@@ -22,7 +22,7 @@
 
 			<!-- Sec Title -->
 			<div class="sec-title centered">
-				<span class="icon flaticon-telephone"></span>
+				{{-- <span class="icon flaticon-telephone"></span> --}}
 				<h2>Creating Access and <span>Opportunity</span></h2>
 				<div class="text" style="max-width:550px; margin:0 auto; color:#000000;">Great infrastructure has the power to transform communities. Below is a list of the services that Pro Borders
                     undertake throughout Kenya in General Civil Engineering, Construction, Mining and Roads works</div>
