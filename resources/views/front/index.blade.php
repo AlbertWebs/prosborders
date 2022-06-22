@@ -5,7 +5,7 @@
     <section class="main-slider">
 		<div class="main-slider-carousel owl-carousel owl-theme">
 			<!-- Slide 01 -->
-			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/mtu.jpg')}}')">
+			<div class="slide" style="background-image:url('{{asset('theme/assets/images/main-slider/mtu.jpg')}}'); background-position:center center;">
 				<div class="auto-container clearfix">
 
 					<!-- Content Column -->
