@@ -43,7 +43,7 @@
 
                 <div class="nav-outer clearfix">
                     <!-- Mobile Navigation Toggler -->
-                    <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
+                    <div class="mobile-nav-toggler"><span class="icon fa fa-bars"></span></div>
                     <!-- Main Menu -->
                     <nav class="main-menu navbar-expand-md">
                         <div class="navbar-header">
